@@ -1,0 +1,14 @@
+{
+  "name": "pokerhand",
+  "version": "1.0.0",
+  "description": "",
+  "main": "my-poker-solution.js",
+  "scripts": {
+    "start": "node my-poker-solution.js"
+  },
+  "author": "Nazila Taherinik",
+  "license": "ISC",
+  "dependencies": {
+    "line-reader": "^0.4.0"
+  }
+}
