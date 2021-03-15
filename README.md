@@ -4,11 +4,13 @@ download the project from repository:
 ```
 1)git clone git@github.com:nazilataheri/pokerhand.git
 ```
-
+```
+2) cd pokerhand
+```
 to run:
 ```
-2)npm install
+3)npm install
 ```
 ```
-3)npm start
+4)npm start
 ```
